@@ -1,0 +1,11 @@
+name = "hello_world"
+description = "test"
+version = "0.1.0-dev"
+
+authors = ["cfreem3"]
+maintainers = ["cfreem3 <cfreem3@gmail.com>"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["hello_world"]
